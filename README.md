@@ -30,7 +30,7 @@
 </ul>
 <p><strong><h2>Logo depois do meu plano com a Alura acabar eu conheci a <em><a href="https://www.dio.me/">DIO (Digital Innovation One)</a></h2><em></strong></p>
 
-![DIO](https://imgs.search.brave.com/cMJ3GjcN3kidwn9rb1Dx0xhmqfJstRhjmHIbMCkLULo/rs:fit:711:225:1/g:ce/aHR0cHM6Ly90c2Ux/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5M/bnZWRDAtOEJzZ2Yz/eWJYd0c1ZmFnSGFF/OCZwaWQ9QXBp)
+![DIO](https://hermes.digitalinnovation.one/site/images/logo-footer.png)
 
   <p><h3>Na DIO eu fiz os seguintes cursos:</h3></p>
 <ul>
