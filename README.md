@@ -44,3 +44,4 @@
 </ul>
 <p><h3>O que eu estou fazendo no momento?</h3></p>
 <p>No momento eu estou em um bootcamp da DIO de Fullstack que se chama: Impulso Javascript Evolution, classe: intermediario, carga horaria de:  95 hrs</p>
+<p><h4>Quando chover, busque pelo arco-íris. Quando escurecer, busque pelas estrelas.<h4><p>
